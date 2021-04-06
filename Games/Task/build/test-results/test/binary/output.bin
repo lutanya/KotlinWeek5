@@ -1,194 +1,0 @@
-[null, null, 2, null]
-[2]
-2[false, false, true, false][null, null, 2, null]
-[2]
-2[false, true, false, false][null, null, 2, null]
-[2]
-2[false, false, true, false][null, null, 2, null]
-[2]
-[false, true, false, false][null, null, null, 2]
-[2]
-[null, null, 2, null]
-[2]
-[null, 2, null, null]
-[2]
-[2, null, null, null]
-[2]
-/[true, true, true, true][2, null, null, null]
-[2]
-[null, 2, null, null]
-[2]
-[null, null, 2, null]
-[2]
-[null, null, null, 2]
-[2]
-/[true, true, true, true][null, null, null, 2]
-[2]
-[null, null, 2, null]
-[2]
-[null, 2, null, null]
-[2]
-[2, null, null, null]
-[2]
-/[true, true, true, true][2, null, null, null]
-[2]
-[null, 2, null, null]
-[2]
-[null, null, 2, null]
-[2]
-[null, null, null, 2]
-[2]
-[true, true, true, true][2, 2, null, 2]
-[4, 2]
-[2, 4, null, 2]
-[2, 4, 2]
-[2, null, 2, 2]
-[4, 2]
-*[true, true, true, false][2, null, 2, 2]
-[4, 2]
-[2, 4, null, 2]
-[2, 4, 2]
-[2, 2, null, 2]
-[4, 2]
-*[false, true, true, true][2, 2, null, 2]
-[4, 2]
-[2, 4, null, 2]
-[2, 4, 2]
-[2, null, 2, 2]
-[4, 2]
-*[true, true, true, false][2, null, 2, 2]
-[4, 2]
-[2, 4, null, 2]
-[2, 4, 2]
-[2, 2, null, 2]
-[4, 2]
-[false, true, true, true][null, null, null, 2]
-[2]
-[null, 2, null, null]
-[2]
-[4, 2, 4, 2]
-[4, 2, 4, 2]
-([true, false, true, false][4, 2, 4, 2]
-[4, 2, 4, 2]
-[null, 2, null, null]
-[2]
-[null, null, null, 2]
-[2]
-1[false, true, false, true][null, null, null, 2]
-[2]
-[null, 2, null, null]
-[2]
-[4, 2, 4, 2]
-[4, 2, 4, 2]
-([true, false, true, false][4, 2, 4, 2]
-[4, 2, 4, 2]
-[null, 2, null, null]
-[2]
-[null, null, null, 2]
-[2]
-[false, true, false, true][null, 2, null, 2]
-[4]
-[2, null, 2, null]
-[4]
-[null, 2, null, null]
-[2]
-[2, null, null, null]
-[2]
-/[true, true, true, true][2, null, null, null]
-[2]
-[null, 2, null, null]
-[2]
-[2, null, 2, null]
-[4]
-[null, 2, null, 2]
-[4]
-,[true, true, true, true][null, 2, null, 2]
-[4]
-[2, null, 2, null]
-[4]
-[null, 2, null, null]
-[2]
-[2, null, null, null]
-[2]
-/[true, true, true, true][2, null, null, null]
-[2]
-[null, 2, null, null]
-[2]
-[2, null, 2, null]
-[4]
-[null, 2, null, 2]
-[4]
-[true, true, true, true][4, 2, 4, 2]
-[4, 2, 4, 2]
-*[false, false, false, false][4, 2, 4, 2]
-[4, 2, 4, 2]
-*[false, false, false, false][4, 2, 4, 2]
-[4, 2, 4, 2]
-*[false, false, false, false][4, 2, 4, 2]
-[4, 2, 4, 2]
-[false, false, false, false][2, null, null, 2]
-[4]
-2[true, false, false, false][null, null, 4, null]
-[4]
-[4, null, null, null]
-[4]
-.[false, true, false, true][null, 4, null, 4]
-[8]
-[null, 2, null, null]
-[2]
-.[true, false, false, true][2, null, null, 8]
-[2, 8]
-[null, null, 2, null]
-[2]
-1[true, true, false, false][null, null, null, 8]
-[8]
-[2, null, 2, 2]
-[4, 2]
-.[false, false, true, true][2, 2, null, null]
-[4]
-[4, 8, null, null]
-[4, 8]
-1[false, false, true, true][null, null, 4, null]
-[4]
-[8, null, null, null]
-[8]
-[4, 4, null, null]
-[8]
-0[true, false, true, true][null, 2, null, null]
-[2]
-[8, 8, null, 4]
-	[16, 4]
-1[true, false, false, true][2, null, null, null]
-[2]
-[null, 2, null, null]
-[2]
-[16, 4, null, null]
-	[16, 4]
-0[true, false, true, true][null, 2, null, null]
-[2]
-[4, null, null, null]
-[4]
-[16, 2, null, 2]
-	[16, 4]
-0[false, true, true, true][null, null, null, 2]
-[2]
-[null, null, null, 2]
-[2]
-[null, null, null, 4]
-[4]
-[null, null, 4, 16]
-	[4, 16]
-&[true, true, true, true][4, 4, 2, 2]
-[8, 4]
-[16, 2, null, null]
-	[16, 2]
-[true, true, false, false])([null, 2, null, 4]
-)([2, 4]
-)*[4, null, 2, null]
-)*[4, 2]
-)+[null, 2, null, 4]
-)+[2, 4]
-),[2, 4, 2, 4]
-),[2, 4, 2, 4]
-)-[4, null, 2, null]
-)-[4, 2]
